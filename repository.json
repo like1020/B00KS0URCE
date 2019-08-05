@@ -25,6 +25,14 @@
       "rank": 8,
       "auth": false,
       "version": 100  
+    },
+    {
+      "name": "94小说",
+      "url": "http://www.94xsw.info",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100    
     }
   ]
 }
