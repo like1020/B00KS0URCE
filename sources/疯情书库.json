@@ -2,8 +2,8 @@
   "name": "疯情书库",
   "version": 100,
   "category": 1,
-  "url": "https://m.aaread.club/",
-  "charset": "utf-8",
+  "url": "https://m.aaread.club",
+  "charset": "",
   "metadata": {
     "name": [".book-cell h4"],
     "author": [".book-author"],
