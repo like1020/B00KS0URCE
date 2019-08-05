@@ -1,0 +1,77 @@
+{
+  "name": "疯情书库",
+  "version": 100,
+  "category": 1,
+  "url": "https://m.aaread.club/",
+  "charset": "",
+  "metadata": {
+    "name": [".book-cell h4"],
+    "author": [".book-author"],
+    "cover": ["img.book-cover@attr->src"],
+    "summary": [".book-desc"],
+    "category": [".tag-small:nth-child(1)"],
+    "status": [".tag-small:nth-child(2)"],
+    "update": ["meta[property=og:novel:update_time]@attr->content"],
+    "lastChapter": ["meta[property=og:novel:latest_chapter_name]@attr->content"],
+    "link": [".book-cell h4@attr->href"],
+    "catalog": [".book-meta:nth-child(2)@attr->href"]
+  },
+  "catalog": {
+    "list": "#volumes li",
+    "orderBy": 0,
+    "chapter": {
+      "name": "a",
+      "link": "a@attr->href"
+    }
+  },
+  "content": {
+    "text": "#chapterContent > section"
+  },
+  "search": {
+    "link": "https://m.aaread.club/search?kw=${key}",
+    "list": ".book-layout"
+  },
+  "rank": {
+    "link": [
+      {
+        "name": "玄幻仙侠",
+        "link": "https://m.aaread.club/category/%E7%8E%84%E5%B9%BB%E4%BB%99%E4%BE%A0"
+      },
+      {
+        "name": "历史古典",
+        "link": "https://m.aaread.club/category/%E5%8E%86%E5%8F%B2%E5%8F%A4%E5%85%B8"
+      },
+      {
+        "name": "惊悚灵异",
+        "link": "https://m.aaread.club/category/%E6%83%8A%E6%82%9A%E7%81%B5%E5%BC%82"
+      },
+      {
+        "name": "穿越同人",
+        "link": "https://m.aaread.club/category/%E7%A9%BF%E8%B6%8A%E5%90%8C%E4%BA%BA"
+      },
+      {
+        "name": "生活都市",
+        "link": "https://m.aaread.club/category/生活都市"
+      },
+      {
+        "name": "耽美女尊",
+        "link": "https://m.aaread.club/category/耽美女尊"
+      },
+      {
+        "name": "言情校园",
+        "link": "https://m.aaread.club/category/言情校园"
+      },
+      {
+        "name": "官场职场",
+        "link": "https://m.aaread.club/category/官场职场"
+      }
+    ],
+    "list": ".book-layout",
+    "page": {
+      "index": 1,
+      "limit": 100,
+      "begin": "",
+      "next": ""
+    }
+  }
+}
