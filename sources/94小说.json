@@ -7,7 +7,7 @@
   "metadata": {
     "name": ["h3 > a"],
     "author": ["p:nth-child(3) > i:nth-child(1)"],
-    "cover": ["a img@attr->data-src"],
+    "cover": ["a img@attr->src"],
     "summary": ["p:nth-child(5)"],
     "category": [""],
     "status": ["p:nth-child(3) > i:nth-child(2)"],
