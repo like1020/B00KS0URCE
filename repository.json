@@ -33,6 +33,14 @@
       "rank": 0,
       "auth": false,
       "version": 100    
+    },
+    {
+      "name": "龙腾小说",
+      "url": "http://www.8qwx.com",
+      "category": 1,
+      "rank": 20,
+      "auth": false,
+      "version": 100    
     }
   ]
 }
