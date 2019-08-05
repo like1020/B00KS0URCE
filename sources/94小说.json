@@ -25,7 +25,7 @@
     }
   },
   "content": {
-    "text": "#BookText br"
+    "text": "#BookText:not(p)"
   },
   "search": {
     "link": "http://www.94xsw.info/modules/article/search.php?searchkey=${key}",
