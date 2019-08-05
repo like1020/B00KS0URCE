@@ -7,13 +7,13 @@
   "metadata": {
     "name": [".book-cell h4"],
     "author": [".book-author"],
-    "cover": ["img.book-cover@attr->src"],
+    "cover": ["img.book-cover@attr->data-src"],
     "summary": [".book-desc"],
     "category": [".tag-small:nth-child(1)"],
     "status": [".tag-small:nth-child(2)"],
     "update": ["meta[property=og:novel:update_time]@attr->content"],
     "lastChapter": ["meta[property=og:novel:latest_chapter_name]@attr->content"],
-    "link": [".book-cell h4@attr->href"],
+    "link": ["a@attr->href"],
     "catalog": [".book-meta:nth-child(2)@attr->href"]
   },
   "catalog": {
