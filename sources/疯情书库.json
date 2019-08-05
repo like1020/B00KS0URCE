@@ -30,5 +30,5 @@
   "search": {
     "link": "https://m.aaread.club/search?kw=${key}",
     "list": ".book-layout"
-  },
+  }
 }
