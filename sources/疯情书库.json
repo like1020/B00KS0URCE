@@ -71,7 +71,7 @@
       "index": 1,
       "limit": 100,
       "begin": "",
-      "next": ""
+      "next": "index_${index}.html"
     }
   }
 }
