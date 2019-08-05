@@ -115,7 +115,7 @@
       "index": 1,
       "limit": 30,
       "begin": "",
-      "next": "_${index}.html/"
+      "next": "_${index}/"
     }
   }
 }
