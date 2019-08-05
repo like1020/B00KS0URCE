@@ -3,7 +3,7 @@
   "version": 100,
   "category": 1,
   "url": "https://m.aaread.club/",
-  "charset": "",
+  "charset": "utf-8",
   "metadata": {
     "name": [".book-cell h4"],
     "author": [".book-author"],
