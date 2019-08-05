@@ -17,14 +17,6 @@
       "rank": 0,
       "auth": false,
       "version": 100
-    },
-    {
-      "name": "疯情书库",
-      "url": "https://m.aaread.club/",
-      "category": 1,
-      "rank": 8,
-      "auth":true,
-      "version": 100,
     }
   ]
 }
