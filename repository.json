@@ -1,36 +1,9 @@
 {
-  "name": "no kan no shufu",
-  "summary": "no kan no shufu",
+  "name": "TEST1",
+  "summary": "TEST1",
   "list": [
     {
-      "name": "890",
-      "url": "https://m.banzhuer.com",
-      "category": 1,
-      "rank": 0,
-      "auth": false,
-      "version": 100,
-      "beta":true
-    },
-    {
-      "name": "yuzhaiwen",
-      "url": "https://www.yuzhaiwen.com/",
-      "category": 1,
-      "rank": 0,
-      "auth": false,
-      "version": 100,
-      "beta":true
-    },
-    {
-      "name": "mifeng",
-      "url": "http://www.mifengxs.com",
-      "category": 1,
-      "rank": 0,
-      "auth": false,
-      "version": 100,
-      "beta":true
-    },
-    {
-      "name": "爱上乐文读书",
+      "name": "乐文读书",
       "url": "http://www.23dushu.net",
       "category": 1,
       "rank": 0,
@@ -38,15 +11,7 @@
       "version": 100
     },
     {
-      "name": "格格党",
-      "url": "http://www.52ggd.com",
-      "category": 1,
-      "rank": 0,
-      "auth": false,
-      "version": 104
-    },
-    {
-      "name": "大文学无错小说网",
+      "name": "大文学小说网",
       "url": "https://www.dawenxue.net",
       "category": 1,
       "rank": 0,
