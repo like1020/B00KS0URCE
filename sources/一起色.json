@@ -28,7 +28,7 @@
     "text": "#ccontent"
   },
   "search": {
-    "link": "http://www.s5217.net/modules/article/search.php?searchtype=articlename&searchkey=С˵&t_btnsearch=${key}",
+    "link": "http://www.s5217.net/modules/article/search.php?searchtype=articlename&searchkey=${key}",
     "list": ".grid tr"
   },  
   "rank": {
