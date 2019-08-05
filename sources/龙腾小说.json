@@ -1,6 +1,6 @@
 {
   "name": "龙腾小说",
-  "version": 100,
+  "version": 101,
   "category": 1,
   "url": "http://www.8qwx.com",
   "charset": "gbk",
@@ -110,7 +110,7 @@
         "link": "http://www.8qwx.com/goodnum_1"
       }
     ],
-    "list": ".book-layout",
+    "list": "#alistbox",
     "page": {
       "index": 1,
       "limit": 30,
