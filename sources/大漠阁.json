@@ -1,0 +1,90 @@
+{
+  "name": "大漠阁",
+  "version": 100,
+  "category": 1,
+  "url": "http://www.damoge.cc",
+  "charset": "gbk",
+  "metadata": {
+    "name": ["h2 a", ".title h2 a"],
+    "author": [".infos span:nth-child(1) a", ".title span@js->${this}.replace('作者：','')"],
+    "cover": [".pic img@attr->src", ".pic img@attr->src"],
+    "summary": ["p", ".intro"],
+    "category": ["span:nth-child(4)@js->${this}.replace('类别：','')"],
+    "status": ["span:nth-child(3)@js->${this}.replace('状态：','')"],
+    "update": [""],
+    "lastChapter": [""],
+    "link": ["h2 a@attr->href", ".title h2 a@attr->href"],
+    "catalog": [""]
+  },
+  "catalog": {
+    "list": ".book_list li",
+    "orderBy": 0,
+    "chapter": {
+      "name": "a",
+      "link": "a@attr->href"
+    }
+  },
+  "content": {
+    "text": ".contentbox",
+    "filter": ["@div", "@strong", "@font"],
+    "next": {
+      "link": "#pager_next@attr->href",
+      "text": "#pager_next@attr->text"
+    }
+  },
+  "search": {
+    "link": "http://www.damoge.cc/plus/search.php?kwtype=0&searchtype=&q=${key}",
+    "list": "div.so"
+  },  
+  "rank": {
+    "link": [
+      {
+        "name": "玄幻",
+        "link": "http://www.myshuge.org/sort1"
+      },
+      {
+        "name": "科幻",
+        "link": "http://www.myshuge.org/sort2"
+      },
+      {
+        "name": "都市",
+        "link": "http://www.myshuge.org/sort3"
+      },
+      {
+        "name": "校园",
+        "link": "http://www.myshuge.org/sort4"
+      },
+      {
+        "name": "同人",
+        "link": "http://www.myshuge.org/sort5"
+      },
+      {
+        "name": "家园",
+        "link": "http://www.myshuge.org/sort6"
+      },
+      {
+        "name": "精品",
+        "link": "http://www.myshuge.org/sort7"
+      },
+      {
+        "name": "古典",
+        "link": "http://www.myshuge.org/sort8"
+      },
+      {
+        "name": "小甜甜文",
+        "link": "http://www.myshuge.org/sort9"
+      },
+      {
+        "name": "其他小说",
+        "link": "http://www.myshuge.org/sort10"
+      }
+    ],
+    "list": "#alistbox",
+    "page": {
+      "index": 1,
+      "limit": 30,
+      "begin": "/1/",
+      "next": "/${index}/"
+    }
+  }
+}
