@@ -49,6 +49,14 @@
       "rank": 10,
       "auth": false,
       "version": 100    
+    },
+    {
+      "name": "大漠阁",
+      "url": "http://www.damoge.cc",
+      "category": 1,
+      "rank": 10,
+      "auth": true,
+      "version": 100    
     }
   ]
 }
