@@ -35,35 +35,35 @@
     "link": [
       {
         "name": "更新列表",
-        "link": "http://www.yidudu1.com/shuku_47"
+        "link": "http://www.yidudu1.com/shuku.html"
       },
       {
         "name": "奇幻玄幻",
-        "link": "http://www.yidudu1.com/qihuan/shuku_15"
+        "link": "http://www.yidudu1.com/qihuan/shuku.html"
       },
       {
         "name": "武侠仙侠",
-        "link": "http://www.yidudu1.com/wuxia/shuku_7"
+        "link": "http://www.yidudu1.com/wuxia/shuku.html"
       },
       {
         "name": "都市青春",
-        "link": "http://www.yidudu1.com/dushi/shuku_10"
+        "link": "http://www.yidudu1.com/dushi/shuku.html"
       },
       {
         "name": "历史穿越",
-        "link": "http://www.yidudu1.com/lishi/shuku_3"
+        "link": "http://www.yidudu1.com/lishi/shuku.html"
       },
       {
         "name": "山野乡村",
-        "link": "http://www.yidudu1.com/kehuan/shuku_1"
+        "link": "http://www.yidudu1.com/kehuan/shuku.html"
       },
       {
         "name": "经典H文",
-        "link": "http://www.yidudu1.com/youxi/shuku_11"
+        "link": "http://www.yidudu1.com/youxi/shuku.html"
       },
       {
         "name": "全本小说",
-        "link": "http://www.yidudu1.com/quanben/shuku_10"
+        "link": "http://www.yidudu1.com/quanben/shuku.html"
       }
     ],
     "list": ".ul_m_list li",
@@ -71,7 +71,7 @@
       "index": 1,
       "limit": 52,
       "begin": "",
-      "next": "_${index}.html"
+      "next": ""
     }
   }
 }
