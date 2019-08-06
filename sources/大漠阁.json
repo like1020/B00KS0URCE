@@ -27,7 +27,7 @@
   "content": {
     "text": ".contentbox",    
     "next": {
-      "link": "a:contains(下一章)",
+      "link": "a[href*=_2.html]",
       "text": "下一章"
     },
     "filter": ["@strong", "@div", "@font"]
