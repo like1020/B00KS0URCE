@@ -57,6 +57,14 @@
       "rank": 7,
       "auth": false,
       "version": 103    
+    },
+    {
+      "name": "海岸线文学",
+      "url": "http://www.haxwx.cc",
+      "category": 1,
+      "rank": 15,
+      "auth": false,
+      "version": 100    
     }
   ]
 }
