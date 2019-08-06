@@ -3,22 +3,6 @@
   "summary": "TEST1",
   "list": [
     {
-      "name": "乐文读书",
-      "url": "http://www.23dushu.net",
-      "category": 1,
-      "rank": 0,
-      "auth": false,
-      "version": 100
-    },
-    {
-      "name": "大文学小说网",
-      "url": "https://www.dawenxue.net",
-      "category": 1,
-      "rank": 0,
-      "auth": false,
-      "version": 100    
-    },
-    {
       "name": "疯情书库",
       "url": "https://m.aaread.club",
       "category": 1,
@@ -47,6 +31,14 @@
       "url": "http://www.s5217.net",
       "category": 1,
       "rank": 7,
+      "auth": false,
+      "version": 100    
+    },
+    {
+      "name": "易读网",
+      "url": "http://www.yidudu1.com",
+      "category": 1,
+      "rank": 8,
       "auth": false,
       "version": 100    
     }
