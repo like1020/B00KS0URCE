@@ -25,12 +25,12 @@
     }
   },
   "content": {
-    "text": ".contentbox",
-    "filter": ["@div", "@strong", "@font"],
+    "text": ".contentbox",    
     "next": {
-      "link": "#pager_next@attr->href",
-      "text": "#pager_next@attr->text"
-    }
+      "link": "#pager_next",
+      "text": "下一章",
+    },
+    "filter": ["@div", "@strong", "@font"]
   },
   "search": {
     "link": "http://www.damoge.cc/plus/search.php?kwtype=0&searchtype=&q=${key}",
