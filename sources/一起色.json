@@ -35,31 +35,31 @@
     "link": [
       {
         "name": "总排行榜",
-        "link": "http://www.s5217.net/allvisit"
+        "link": "http://www.s5217.net/allvisit-1.html"
       },
       {
         "name": "总推荐榜",
-        "link": "http://www.s5217.net/allvote"
+        "link": "http://www.s5217.net/allvote-1.html"
       },
       {
         "name": "月排行榜",
-        "link": "http://www.s5217.net/monthvisit"
+        "link": "http://www.s5217.net/monthvisit-1.html"
       },
       {
         "name": "周排行榜",
-        "link": "http://www.s5217.net/weekvisit"
+        "link": "http://www.s5217.net/weekvisit-1.html"
       },
       {
         "name": "最近更新",
-        "link": "http://www.s5217.net/postdate"
+        "link": "http://www.s5217.net/postdate-1.html"
       },
       {
         "name": "总收藏榜",
-        "link": "http://www.s5217.net/goodnum"
+        "link": "http://www.s5217.net/goodnum-1.html"
       },
       {
         "name": "字数排行",
-        "link": "http://www.s5217.net/size"
+        "link": "http://www.s5217.net/size-1.html"
       }
     ],
     "list": ".ultwo li",
@@ -67,7 +67,7 @@
       "index": 1,
       "limit": 30,
       "begin": "",
-      "next": "-${index}.html"
+      "next": ""
     }
   }
 }
