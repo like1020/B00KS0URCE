@@ -5,15 +5,15 @@
   "url": "http://www.damoge.cc",
   "charset": "gbk",
   "metadata": {
-    "name": ["h2 a", ".title h2 a"],
-    "author": [".infos span:nth-child(1) a", ".title span@js->${this}.replace('作者：','')"],
+    "name": ["h2 a", "h3 a"],
+    "author": [".infos span:nth-child(1) a", "a:nth-child(2)@js->${this}.replace('作品','')"],
     "cover": [".pic img@attr->src", ".pic img@attr->src"],
     "summary": ["p", ".intro"],
-    "category": ["span:nth-child(4)@js->${this}.replace('类别：','')"],
+    "category": ["span:nth-child(4)@js->${this}.replace('类别：','')", "span:nth-child(1) > a:nth-child(1)"],
     "status": ["span:nth-child(3)@js->${this}.replace('状态：','')"],
     "update": [""],
     "lastChapter": [""],
-    "link": ["h2 a@attr->href", ".title h2 a@attr->href"],
+    "link": ["h2 a@attr->href", "h3 a@attr->href"],
     "catalog": [""]
   },
   "catalog": {
@@ -27,7 +27,7 @@
   "content": {
     "text": ".contentbox",    
     "next": {
-      "link": "a[href*=_2.html]",
+      "link": "a[href$=_2.html]",
       "text": "下一章"
     },
     "filter": ["@strong", "@div", "@font"]
@@ -37,54 +37,42 @@
     "list": "div.so"
   },  
   "rank": {
-    "link": [
+    "link": [      
       {
-        "name": "玄幻",
-        "link": "http://www.myshuge.org/sort1"
+        "name": "首页",
+        "link": "http://www.damoge.cc"
       },
       {
-        "name": "科幻",
-        "link": "http://www.myshuge.org/sort2"
+        "name": "玄幻魔幻",
+        "link": "http://www.damoge.cc/xuanhuan.html"
       },
       {
-        "name": "都市",
-        "link": "http://www.myshuge.org/sort3"
+        "name": "仙侠武侠",
+        "link": "http://www.damoge.cc/xianxia.html"
       },
       {
-        "name": "校园",
-        "link": "http://www.myshuge.org/sort4"
+        "name": "言情都市",
+        "link": "http://www.damoge.cc/yanqing.html"
       },
       {
-        "name": "同人",
-        "link": "http://www.myshuge.org/sort5"
+        "name": "穿越历史",
+        "link": "http://www.damoge.cc/chuanyue.html"
       },
       {
-        "name": "家园",
-        "link": "http://www.myshuge.org/sort6"
+        "name": "科幻灵异",
+        "link": "http://www.damoge.cc/kehuan.html"
       },
       {
-        "name": "精品",
-        "link": "http://www.myshuge.org/sort7"
-      },
-      {
-        "name": "古典",
-        "link": "http://www.myshuge.org/sort8"
-      },
-      {
-        "name": "小甜甜文",
-        "link": "http://www.myshuge.org/sort9"
-      },
-      {
-        "name": "其他小说",
-        "link": "http://www.myshuge.org/sort10"
+        "name": "网游同人",
+        "link": "http://www.damoge.cc/wangyou.html"
       }
     ],
-    "list": "#alistbox",
+    "list": "#cols-2 li",
     "page": {
       "index": 1,
-      "limit": 30,
-      "begin": "/1/",
-      "next": "/${index}/"
+      "limit": 100,
+      "begin": "",
+      "next": ""
     }
   }
 }
