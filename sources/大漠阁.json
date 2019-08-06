@@ -1,6 +1,6 @@
 {
   "name": "大漠阁",
-  "version": 102,
+  "version": 103,
   "category": 1,
   "url": "http://www.damoge.cc",
   "charset": "gbk",
@@ -27,7 +27,7 @@
   "content": {
     "text": ".contentbox",    
     "next": {
-      "link": "[href$=_2.html]",
+      "link": "a[href$=_2.html]@attr->href",
       "text": "下一章"
     },
     "filter": ["@strong", "@div", "@font"]
