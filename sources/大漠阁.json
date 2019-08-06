@@ -28,7 +28,7 @@
     "text": ".contentbox",    
     "next": {
       "link": "#pager_next",
-      "text": "下一章",
+      "text": "下一章"
     },
     "filter": ["@div", "@strong", "@font"]
   },
