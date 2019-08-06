@@ -35,87 +35,87 @@
     "link": [
       {
         "name": "乡村小说",
-        "link": "http://www.8qwx.com/1_1/"
+        "link": "http://www.8qwx.com/1"
       },
       {
         "name": "玄幻小说",
-        "link": "http://www.8qwx.com/2_1/"
+        "link": "http://www.8qwx.com/2"
       },
       {
         "name": "仙侠小说",
-        "link": "http://www.8qwx.com/3_1/"
+        "link": "http://www.8qwx.com/3"
       },
       {
         "name": "都市小说",
-        "link": "http://www.8qwx.com/4_1/"
+        "link": "http://www.8qwx.com/4"
       },
       {
         "name": "历史小说",
-        "link": "http://www.8qwx.com/5_1/"
+        "link": "http://www.8qwx.com/5"
       },
       {
         "name": "悬疑小说",
-        "link": "http://www.8qwx.com/6_1/"
+        "link": "http://www.8qwx.com/6"
       },
       {
         "name": "网游小说",
-        "link": "http://www.8qwx.com/7_1/"
+        "link": "http://www.8qwx.com/7"
       },
       {
         "name": "灵异小说",
-        "link": "http://www.8qwx.com/8_1/"
+        "link": "http://www.8qwx.com/8"
       },
       {
         "name": "耽美小说",
-        "link": "http://www.8qwx.com/9_1/"
+        "link": "http://www.8qwx.com/9"
       },
       {
         "name": "其他小说",
-        "link": "http://www.8qwx.com/10_1/"
+        "link": "http://www.8qwx.com/10"
       },
       {
         "name": "最近更新",
-        "link": "http://www.8qwx.com/lastupdate_1/"
+        "link": "http://www.8qwx.com/lastupdate"
       },
       {
         "name": "最新新书",
-        "link": "http://www.8qwx.com/postdate_1/"
+        "link": "http://www.8qwx.com/postdate"
       },
       {
         "name": "日点击榜",
-        "link": "http://www.8qwx.com/dayvisit_1/"
+        "link": "http://www.8qwx.com/dayvisit"
       },
       {
         "name": "周点击榜",
-        "link": "http://www.8qwx.com/weekvisit_1/"
+        "link": "http://www.8qwx.com/weekvisit"
       },
       {
         "name": "月点击榜",
-        "link": "http://www.8qwx.com/monthvisit_1/"
+        "link": "http://www.8qwx.com/monthvisit"
       },
       {
         "name": "总点击榜",
-        "link": "http://www.8qwx.com/allvisit_1/"
+        "link": "http://www.8qwx.com/allvisit"
       },
       {
         "name": "总推荐榜",
-        "link": "http://www.8qwx.com/allvote_1/"
+        "link": "http://www.8qwx.com/allvote"
       },
       {
         "name": "字数排行",
-        "link": "http://www.8qwx.com/size_1/"
+        "link": "http://www.8qwx.com/size"
       },
       {
         "name": "总收藏榜",
-        "link": "http://www.8qwx.com/goodnum_1/"
+        "link": "http://www.8qwx.com/goodnum"
       }
     ],
     "list": "#alistbox",
     "page": {
       "index": 1,
       "limit": 30,
-      "begin": "",
-      "next": ""
+      "begin": "_1/",
+      "next": "_${index}/"
     }
   }
 }
