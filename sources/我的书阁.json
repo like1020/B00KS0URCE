@@ -39,7 +39,7 @@
       },
       {
         "name": "科幻",
-        "link": "http://www.myshuge.org/sort2
+        "link": "http://www.myshuge.org/sort2"
       },
       {
         "name": "都市",
@@ -78,8 +78,8 @@
     "page": {
       "index": 1,
       "limit": 30,
-      "begin": "1/",
-      "next": "${index}/"
+      "begin": "/1/",
+      "next": "/${index}/"
     }
   }
 }
