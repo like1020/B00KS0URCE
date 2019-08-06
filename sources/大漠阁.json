@@ -27,10 +27,10 @@
   "content": {
     "text": ".contentbox",    
     "next": {
-      "link": "a:contains(下一章)@attr->href",
+      "link": "a:contains(下一章)",
       "text": "下一章"
     },
-    "filter": ["@strong", "@font"]
+    "filter": ["@strong", "@div", "@font"]
   },
   "search": {
     "link": "http://www.damoge.cc/plus/search.php?kwtype=0&searchtype=&q=${key}",
