@@ -78,8 +78,8 @@
     "page": {
       "index": 1,
       "limit": 30,
-      "begin": "/1/",
-      "next": "/${index}/"
+      "begin": "1/",
+      "next": "${index}/"
     }
   }
 }
