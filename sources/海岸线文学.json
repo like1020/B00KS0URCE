@@ -25,12 +25,7 @@
     }
   },
   "content": {
-    "text": "#BookText",    
-    "next": {
-      "link": "",
-      "text": ""
-    },
-    "filter": [""]
+    "text": "#BookText"
   },
   "search": {
     "link": "http://www.haxwx.cc/modules/article/search.php?searchkey=${key}",
