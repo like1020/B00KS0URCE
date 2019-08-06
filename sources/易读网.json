@@ -35,7 +35,7 @@
     "link": [
       {
         "name": "更新列表",
-        "link": "http://www.yidudu1.com/shuku.html"
+        "link": "http://www.yidudu1.com/shuku_47"
       },
       {
         "name": "奇幻玄幻",
@@ -70,8 +70,8 @@
     "page": {
       "index": 1,
       "limit": 52,
-      "begin": "",
-      "next": ""
+      "begin": "_1.html",
+      "next": "_${index}.html"
     }
   }
 }
