@@ -71,7 +71,7 @@
       "index": 1,
       "limit": 30,
       "begin": "",
-      "next": ""
+      "next": "&pageNum=${index}"
     }
   }
 }
