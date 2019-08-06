@@ -74,7 +74,7 @@
         "link": "http://www.myshuge.org/sort10"
       }
     ],
-    "list": ".book-layout",
+    "list": "#alistbox",
     "page": {
       "index": 1,
       "limit": 30,
