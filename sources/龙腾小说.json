@@ -6,7 +6,7 @@
   "charset": "gbk",
   "metadata": {
     "name": ["h2 > a"],
-    "author": [".title span"],
+    "author": [".title span@js->${this}.replace('作者：','')"],
     "cover": [".pic img@attr->src"],
     "summary": [".intro"],
     "category": [""],
