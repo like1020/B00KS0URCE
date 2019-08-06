@@ -27,7 +27,7 @@
   "content": {
     "text": ".contentbox",    
     "next": {
-      "link": "a[href$=_2.html]",
+      "link": "[href$=_2.html]",
       "text": "下一章"
     },
     "filter": ["@strong", "@div", "@font"]
