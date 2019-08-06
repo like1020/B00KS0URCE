@@ -26,6 +26,7 @@
   },
   "content": {
     "text": "#content"
+    "filter": ["@a", "@b"]
   },
   "search": {
     "link": "http://www.8qwx.com/modules/article/search.php?searchkey=${key}",
