@@ -41,6 +41,14 @@
       "rank": 8,
       "auth": false,
       "version": 100    
+    },
+    {
+      "name": "我的书阁",
+      "url": "http://www.myshuge.org",
+      "category": 1,
+      "rank": 10,
+      "auth": false,
+      "version": 100    
     }
   ]
 }
