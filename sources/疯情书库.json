@@ -6,7 +6,7 @@
   "charset": "",
   "metadata": {
     "name": [".book-cell h4"],
-    "author": [".book-author"],
+    "author": [".book-author@js->${this}.replace('作者 ','')"],
     "cover": ["img.book-cover@attr->data-src"],
     "summary": [".book-desc"],
     "category": [".tag-small:nth-child(1)"],
