@@ -55,7 +55,7 @@
       "url": "http://www.damoge.cc",
       "category": 1,
       "rank": 10,
-      "auth": true,
+      "auth": false,
       "version": 100    
     }
   ]
