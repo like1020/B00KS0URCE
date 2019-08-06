@@ -10,7 +10,7 @@
     "cover": ["a img@attr->src", ".book-img img@attr->src"],
     "summary": ["p:nth-child(5)", ".book-intro"],
     "category": ["s.fl a:nth-child(3)", "span:nth-child(1) > a:nth-child(1)", ".s1"],
-    "status": ["p:nth-child(3) i:nth-child(2)"< ".s5"],
+    "status": ["p:nth-child(3) i:nth-child(2)", ".s5"],
     "update": ["p:nth-child(4) i:nth-child(2)", ".s4"],
     "lastChapter": ["i a"],
     "link": ["h3 a@attr->href", ".s2 > a@attr->href"],
