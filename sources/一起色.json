@@ -25,8 +25,8 @@
     }
   },
   "content": {
-    "text": "#ccontent"
-    "filter": "p"
+    "text": "#ccontent",
+    "filter": ["p"]
   },
   "search": {
     "link": "http://www.s5217.net/modules/article/search.php?searchtype=articlename&searchkey=${key}",
