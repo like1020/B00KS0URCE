@@ -27,10 +27,10 @@
   "content": {
     "text": ".contentbox",    
     "next": {
-      "link": "#pager_next",
+      "link": "#jsnc_l .contentbox .chapter_Turnpage a:nth-child(5)",
       "text": "下一章"
     },
-    "filter": ["@div", "@strong", "@font"]
+    "filter": ["@p", "@strong", "@font"]
   },
   "search": {
     "link": "http://www.damoge.cc/plus/search.php?kwtype=0&searchtype=&q=${key}",
