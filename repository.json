@@ -65,6 +65,14 @@
       "rank": 15,
       "auth": false,
       "version": 101    
+    },
+    {
+      "name": "瑶池小说",
+      "url": "http://www.yaochixs.com",
+      "category": 1,
+      "rank": 13,
+      "auth": false,
+      "version": 100    
     }
   ]
 }
