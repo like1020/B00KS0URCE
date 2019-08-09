@@ -13,7 +13,7 @@
 | 我的书阁 | http://www.myshuge.org | 网文 | 7 | 1.0.0 |  |
 | 大漠阁`beta` | http://www.damoge.cc | 网文 | 7 | 1.0.3 | 正文下一页内容不显示 |
 | 海岸线文学 | http://www.haxwx.cc | 网文 | 15 | 1.0.1 |  |
-| 瑶池小说 | http://www.yaochixs.com | 13 | 0 | 1.0.1 |  |
+| 瑶池小说 | http://www.yaochixs.com | 网文 | 13 | 1.0.1 |  |
 ---
 
 
