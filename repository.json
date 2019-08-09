@@ -73,6 +73,14 @@
       "rank": 13,
       "auth": false,
       "version": 101    
+    },
+    {
+      "name": "牛杂文学",
+      "url": "https://www.nzwxw.com",
+      "category": 1,
+      "rank": 7,
+      "auth": false,
+      "version": 100    
     }
   ]
 }
