@@ -14,11 +14,12 @@
 | 大漠阁`beta` | http://www.damoge.cc | 网文 | 7 | 1.0.3 | 正文下一页内容不显示 |
 | 海岸线文学 | http://www.haxwx.cc | 网文 | 15 | 1.0.1 |  |
 | 瑶池小说 | http://www.yaochixs.com | 网文 | 13 | 1.0.1 |  |
+| 牛杂文学 | https://www.nzwxw.com | 网文 | 7 | 1.0.2 | 精确搜索暂不可用 |
 ---
 
 
 ## Change Log
 
-2019.08.09 
+2019.08.09 新增 牛杂文学
 
 
