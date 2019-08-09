@@ -13,7 +13,7 @@
     "status": ["td:nth-child(6)"],
     "update": ["td:nth-child(5)@attr->content", "td:nth-child(6)@attr->content"],
     "lastChapter": ["td:nth-child(2) a@attr->content", "td:nth-child(4)@attr->content"],
-    "link": ["td:nth-child(1) a@attr->href", "a.aname@attr->href"],
+    "link": ["td:nth-child(1) a@attr->href", "td:nth-child(3) > a@attr->href"],
     "catalog": [".pic325 a:nth-child(1)@attr->href"]
   },
   "catalog": {
