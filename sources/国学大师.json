@@ -17,7 +17,7 @@
     "catalog": [""]
   },
   "catalog": {
-    "list": ".info_content clearfix:nth-child(1) > .info_cate clearfix:nth-child(1) > dd",
+    "list": ".info_content:nth-child(1) > .info_cate:nth-child(1) > dd",
     "orderBy": 0,
     "chapter": {
       "name": "a",
@@ -25,11 +25,11 @@
     }
   },
   "content": {
-    "text": ".info_txt clearfix",
+    "text": ".info_txt",
     "filter": [""]
   },
   "search": {
     "link": "http://www.guoxuedashi.com/so.php?sokeytm=${key}&ka=100&submit=",
-    "list": ".info_content clearfix:nth-child(1) > .info_cate clearfix:nth-child(1) > dd"
+    "list": ".info_content:nth-child(1) > .info_cate:nth-child(1) > dd"
   }
 }
