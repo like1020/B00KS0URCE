@@ -1,0 +1,35 @@
+{
+  "name": "国学大师",
+  "version": 100,
+  "category": 1,
+  "url": "http://www.guoxuedashi.com",
+  "charset": "gbk",
+  "metadata": {
+    "name": ["a"],
+    "author": [""],
+    "cover": [""],
+    "summary": [""],
+    "category": [""],
+    "status": [""],
+    "update": [""],
+    "lastChapter": [""],
+    "link": ["a@attr->href"],
+    "catalog": [""]
+  },
+  "catalog": {
+    "list": ".info_content clearfix:nth-child(1) > .info_cate clearfix:nth-child(1) > dd",
+    "orderBy": 0,
+    "chapter": {
+      "name": "a",
+      "link": "a@attr->href"
+    }
+  },
+  "content": {
+    "text": ".info_txt clearfix",
+    "filter": [""]
+  },
+  "search": {
+    "link": "http://www.guoxuedashi.com/so.php?sokeytm=${key}&ka=100&submit=",
+    "list": ".info_content clearfix:nth-child(1) > .info_cate clearfix:nth-child(1) > dd"
+  }
+}
